@@ -1,0 +1,20 @@
+{
+  "name": "iAdvizeChat",
+  "version": "1.0.0",
+  "main": "index.html",
+  "dependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm install && bower install && gulp serve"
+  },
+  "author": "Mickaël",
+  "license": "ISC",
+  "description": ""
+}
